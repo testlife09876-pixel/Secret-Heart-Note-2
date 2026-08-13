@@ -1,0 +1,85 @@
+I want to completely simplify and redesign this website.
+
+IMPORTANT:
+Do not create a new website and do not open a new browser tab.
+Modify the existing website/code.
+
+Remove all the unnecessary sections and content currently on the website, including:
+- Our story / timeline section
+- A few wishes section
+- Saved in my mind / evidence section
+- All photo/memory cards
+- Extra navigation sections
+- The "One last thing" section
+- Any unnecessary headings, cards, dates, footer content, and extra pages/sections
+- Remove the "Clara" hardcoded name
+
+The final website should be a simple private digital love letter experience.
+
+DESIRED FLOW:
+
+1. First screen:
+Show a beautiful centered envelope, like a romantic digital 💌 envelope.
+Make the envelope much more colorful and attractive than the current plain geometric envelope.
+Use a warm romantic color palette such as pink, coral, rose, red and cream.
+The envelope should visually resemble a real cute love-letter envelope, with a flap, heart seal, subtle shadow and a gentle romantic animation.
+Do NOT literally use the emoji as the entire design; create a polished CSS/HTML envelope inspired by 💌.
+
+Above the envelope, show:
+"A little letter for you"
+
+Below it, show:
+"Tap the envelope to open"
+
+The recipient name must NOT be hardcoded as Clara.
+Instead use a clearly editable variable/place-holder such as:
+[RECIPIENT_NAME]
+
+Display:
+"For [RECIPIENT_NAME]"
+
+2. Envelope interaction:
+When the user taps/clicks the envelope:
+- Do NOT open a new tab
+- Do NOT navigate to another website
+- Open the envelope with a smooth animation on the SAME PAGE
+- Then reveal the letter underneath/inside the envelope
+- Add a subtle fade/slide animation
+- Keep the experience elegant and romantic
+
+3. Letter:
+After opening, show ONE beautiful letter only.
+Use a realistic paper/handwritten-letter style.
+The letter should have:
+"Dear [RECIPIENT_NAME],"
+
+Then leave the letter content as an easily editable section/variable:
+[LETTER_CONTENT]
+
+At the bottom:
+"With all my love,"
+[YOUR_NAME]
+
+Make [RECIPIENT_NAME], [LETTER_CONTENT], and [YOUR_NAME] very easy to find and edit in the code.
+
+4. Design:
+Make the entire website feel like a premium romantic digital letter.
+Use:
+- cream paper background
+- pink/coral/rose envelope
+- elegant serif typography
+- subtle hearts
+- soft shadows
+- smooth animations
+- mobile-first responsive design
+- no clutter
+
+5. Very important:
+The entire website should essentially contain only:
+Landing screen → envelope → click/tap → envelope opens → one letter appears.
+
+Do not keep the old sections hidden below the page. Remove them from the rendered website/code where appropriate.
+
+Make sure there is no horizontal overflow and it looks excellent on a phone.
+
+After making the changes, run the app and verify that clicking the envelope opens the letter on the same page.
