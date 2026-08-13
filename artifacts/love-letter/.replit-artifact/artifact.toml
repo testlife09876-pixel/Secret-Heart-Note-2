@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Love Letter"
+description = "A romantic, mobile-first surprise web experience that opens like a handwritten love letter and reveals personal memories, reasons, wishes, and a final message."
+version = "1.0.0"
+id = "artifacts/love-letter"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18446
+
+[services.development]
+run = "pnpm --filter @workspace/love-letter run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/love-letter", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/love-letter/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18446"
+BASE_PATH = "/"
