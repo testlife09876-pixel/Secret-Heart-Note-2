@@ -1,0 +1,104 @@
+IMPORTANT: Do not change or remove any existing functionality, navigation, buttons, animations, QR code logic, or love-letter content. Only improve the visual design, colors, typography, spacing, and overall polish.
+
+Redesign the entire romantic love-letter website to look PREMIUM, ELEGANT, ROMANTIC, and PROFESSIONAL.
+
+COLOR PALETTE:
+- Primary: Deep Burgundy #6B1738
+- Secondary: Rose #A83D5F
+- Accent: Soft Blush #EFA6B5
+- Background: Warm Ivory #FFF8F4
+- Secondary background: Very light blush #FCE9E8
+- Text: Dark Burgundy #3D1B2B
+- Muted text: #80616D
+- White: #FFFFFF
+- Gold accent: #C9A45C
+
+Do NOT use bright neon pink, childish colors, or excessive gradients.
+
+GLOBAL DESIGN:
+1. Use a soft warm ivory/blush background.
+2. Add very subtle romantic floating hearts in the background.
+3. Hearts should be elegant and minimal, not excessive.
+4. Use deep burgundy for major headings and buttons.
+5. Use rose/gold accents for small labels and decorative elements.
+6. Add subtle shadows and glass-like effects where appropriate.
+7. Use smooth rounded corners, approximately 18–24px.
+8. Add professional spacing and alignment.
+9. Make everything fully responsive for Android mobile screens.
+10. Keep the website fast and lightweight.
+11. Add smooth transitions and elegant hover/tap animations.
+12. Make buttons look premium with subtle shadow and press animation.
+
+TYPOGRAPHY:
+- Large headings: elegant serif font similar to Playfair Display / Cormorant Garamond.
+- Body text: clean modern font similar to Inter / Poppins.
+- Urdu letter: use a beautiful readable Urdu font such as Noto Nastaliq Urdu if available.
+- Do not make the Urdu text too thin.
+- Improve line-height and spacing so the Urdu letter is easy to read on mobile.
+
+ENVELOPE PAGE:
+- Keep the large envelope.
+- Make the envelope deep rose/burgundy with subtle gradient.
+- Heart opening button should look premium.
+- Add a soft glow around the heart.
+- Heading should use dark burgundy.
+- Make "Tap the heart to open" elegant and subtle.
+
+LOVE LETTER PAGE:
+- Keep the notebook/paper concept but make it much more premium.
+- Use warm ivory paper instead of plain white.
+- Add very subtle paper texture/lines.
+- Add a thin burgundy/rose border.
+- Make "FOR YOU, ALWAYS" elegant.
+- Make the recipient name large and beautiful.
+- IMPORTANT: The Urdu letter must remain exactly as it is. Do not rewrite, translate, shorten, or remove it.
+- Improve Urdu font rendering, spacing, line-height and alignment.
+- Add a small elegant heart divider.
+- Add a beautiful signature area at the bottom.
+
+QUESTION PAGE:
+- Keep "Do you love me?" concept.
+- Make the heading premium and romantic.
+- Use deep burgundy for the main heading.
+- Make YES button burgundy with white text.
+- Make NO button soft ivory with burgundy border.
+- Add subtle button animations.
+- Keep the existing functionality of both buttons.
+
+QR / INVITATION PAGE:
+- Keep the existing QR code and its functionality exactly.
+- Put QR code inside a premium ivory card with a subtle burgundy border.
+- Add soft shadow.
+- Make "Scan Me" elegant and premium.
+- Keep "I SCANNED IT" button functional.
+- Do not replace or break the QR code.
+
+RESPONSIVE MOBILE DESIGN:
+The website is mainly being viewed on Android phones.
+Optimize every section for 360px, 390px, 412px and larger mobile widths.
+Nothing should overflow horizontally.
+The Urdu letter must never be cut off.
+Buttons should fit comfortably on mobile.
+Keep important content above the fold where possible.
+
+IMPORTANT:
+- Do not delete existing code unnecessarily.
+- Do not rebuild the application from scratch.
+- Modify the existing CSS/components carefully.
+- Preserve all existing functionality.
+- Preserve the existing romantic flow and pages.
+- Make the final result feel like a professionally designed premium digital love letter, not a basic AI-generated webpage.
+
+After making the changes, check the entire website page-by-page and fix:
+- horizontal overflow
+- text clipping
+- Urdu font issues
+- button alignment
+- mobile spacing
+- inconsistent colors
+- excessive shadows
+- excessive animations
+
+Final visual style:
+"Luxury romantic digital love letter"
+Elegant + emotional + minimal + premium + professional.
